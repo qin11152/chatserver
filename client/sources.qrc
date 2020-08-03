@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/login/prefix1">
+        <file>image/qq.jpg</file>
+        <file>image/timg.jpg</file>
+        <file>image/u=3959711232,3082171464&amp;fm=26&amp;gp=0.jpg</file>
+        <file>image/qq1.jpg</file>
+    </qresource>
+</RCC>
